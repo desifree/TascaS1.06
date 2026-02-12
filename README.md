@@ -18,8 +18,10 @@ Práctica del módulo PHP Avanzado – IT Academy (Barcelona Activa).
 - Programación orientada a objetos
 
 • Ejecución: 
-composer install
-php -S localhost:8000
+- composer install
+- php -S localhost:8000
+
+
 
 Carol Desireé Ramírez Durán
 Barcelona, 2026
