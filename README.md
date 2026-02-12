@@ -2,7 +2,7 @@ S1.06 – PHP Avanzado
 Práctica del módulo PHP Avanzado – IT Academy (Barcelona Activa).
 
 
-• Contenidos trabajados:
+Contenidos trabajados:
 - Uso de variables superglobales ($_POST, $_SESSION)
 - Constantes mágicas (__FILE__, __DIR__, etc.)
 - Sobreescritura de método mágico
@@ -11,13 +11,13 @@ Práctica del módulo PHP Avanzado – IT Academy (Barcelona Activa).
 - Instalación y uso de librería con Composer
 
 
-• Tecnologías
+Tecnologías
 - PHP 8+
 - HTML
 - Composer
 - Programación orientada a objetos
 
-• Ejecución: 
+Ejecución: 
 - composer install
 - php -S localhost:8000
 
