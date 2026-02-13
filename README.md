@@ -1,27 +1,18 @@
-S1.06 – PHP Avanzado
-Práctica del módulo PHP Avanzado – IT Academy (Barcelona Activa).
+# S1.06 – PHP Avanzado
+** Descripción **: Proyecto práctico enfocado en funcionalidades avanzadas de PHP: superglobales, sesiones, constantes mágicas, métodos mágicos, enums, traits y uso de Composer.
 
-
-Contenidos trabajados:
-- Uso de variables superglobales ($_POST, $_SESSION)
-- Constantes mágicas (__FILE__, __DIR__, etc.)
-- Sobreescritura de método mágico
-- Implementación de Enums
-- Uso de Traits
-- Instalación y uso de librería con Composer
-
-
-Tecnologías
-- PHP 8+
+## 🛠 Tecnologías
+- PHP
 - HTML
 - Composer
-- Programación orientada a objetos
 
-Ejecución: 
-- composer install
-- php -S localhost:8000
+ ## 🚀 Instalación
+1. Clonar el repositorio: `git clone ...`
+2. Instalar dependencias: `composer install`
+3. Ejecutar servidor local: `php -S localhost:8000`
 
-
+ ## 📸 Demo
+Proyecto ejecutado en entorno local mostrando formulario, validaciones y gestión de excepciones.
 
 Carol Desireé Ramírez Durán
 Barcelona, 2026
